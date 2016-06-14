@@ -1,0 +1,9 @@
+[submodule "dapple_packages/dappsys"]
+	path = dapple_packages/dappsys
+	url = https://github.com/nexusdev/dappsys.git
+[submodule "dapple_packages/feedbase"]
+	path = dapple_packages/feedbase
+	url = https://github.com/nexusdev/feedbase.git
+[submodule "dapple_packages/maker-user"]
+	path = dapple_packages/maker-user
+	url = git@github.com:MakerDAO/maker-user.git
